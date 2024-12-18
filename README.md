@@ -273,19 +273,3 @@ Here is how you can get community support:
 * Ask a question at [Stackoverflow](https://stackoverflow.com/questions/tagged/mindsdb) with a MindsDB tag.
 
 If you need commercial support, please [contact the MindsDB team](https://mindsdb.com/contact?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo).
-
-## 💚 Current contributors
-
-<a href="https://github.com/mindsdb/mindsdb/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=mindsdb/mindsdb" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).
-
-## 🔔 Subscribe to updates
-
-Join our [Slack community](https://mindsdb.com/joincommunity?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo) and subscribe to the monthly [Developer Newsletter](https://mindsdb.com/newsletter?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo) to get product updates, information about MindsDB events and contests, and useful content, like tutorials.
-
-## ⚖️ License 
-
-For detailed licensing information, please refer to the [LICENSE file](https://github.com/mindsdb/mindsdb/blob/master/LICENSE).
